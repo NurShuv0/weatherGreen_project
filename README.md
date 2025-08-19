@@ -32,5 +32,4 @@ This project is designed as a **Smart Gardening Assistant** that helps users pla
 
 ---
 
-## 📂 Project Structure
 
